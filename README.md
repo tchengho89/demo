@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/tchengho89/demo/blob/main/images/8%20Jun%202017%20ftom%20camera%20070.JPG)
 
 <!-- Add your details -->
 
